@@ -9,5 +9,10 @@
     "navigationBarBackgroundColor": "#F6F6F6",
     "navigationBarTitleText": "Todo",
     "navigationBarTextStyle": "black"
+  },
+  "usingComponents": {
+    "van-button":"miniprogram_npm/vant-weapp/button",
+    "van-cell": "miniprogram_npm/vant-weapp/cell",
+    "van-cell-group": "miniprogram_npm/vant-weapp/cell-group"
   }
 }
